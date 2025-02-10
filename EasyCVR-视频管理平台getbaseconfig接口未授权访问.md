@@ -23,7 +23,7 @@ Sec-Fetch-Site: same-origin
 Te: trailers
 ```
 
-![image-20250210111616195](images\image-20250210111616195.png)
+![image-20250210111616195](images/image-20250210111616195.png)
 
 
 
