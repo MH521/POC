@@ -8,7 +8,7 @@ FOFA:
 title="EasyCVR"
 ```
 
-`GET /api/v1/getbaseconfig HTTP/2
+GET /api/v1/getbaseconfig HTTP/2
 Host: 
 Cookie: token=-RDgCfFNR
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0
@@ -19,7 +19,7 @@ Referer: https://122.225.84.166:4443/
 Sec-Fetch-Dest: empty
 Sec-Fetch-Mode: cors
 Sec-Fetch-Site: same-origin
-Te: trailers`
+Te: trailers
 
 ![image-20250210111616195](images/image-20250210111616195.png)
 
